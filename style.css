@@ -63,7 +63,7 @@
 }
 .btn-button-lite button:hover{
     background-color: #fff;
-    color: #2A8C82;
+    color: #e2941e;
 }
 form{
     border: 1px solid #8b8b8b; 
@@ -83,7 +83,7 @@ form{
     width: 100%;
     font-size: 16px;
     font-weight: 500;
-    color: #2A8C82;
+    color: #e2941e;
 }
 .text-card input{
     border: none;
@@ -102,14 +102,14 @@ form{
     font-size: 15px;
     font-weight: 500;
     padding: 10px 60px;
-    border: 1px solid #2A8C82;
+    border: 1px solid #e2941e;
     border-radius: 20px;
     background-color: transparent;
     cursor: pointer;
     transition: .2s;
 }
 .btn-button-dark button:hover{
-    background-color:#2A8C82;
+    background-color:#e2941e;
     color:#fff;
 }
 .redes-sociais ul {
@@ -125,7 +125,7 @@ form{
     transition: .2s;
 }
 .redes-sociais ul li i:hover{
-    color: #2A8C82;
+    color: #e2941e;
 }
 .conteudo-right{
     display: flex;
@@ -134,10 +134,10 @@ form{
     width: 60%; 
 }
 .conteudo-right .titulo{
-    color: #2A8C82;
+    color: #e2941e;
 }
 .conteudo-right .descricao{
-    color:#2A8C82;
+    color:#e2941e;
     font-size: 16px;
     font-weight: 400;
     line-height: 25px;
