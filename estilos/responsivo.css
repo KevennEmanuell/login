@@ -4,15 +4,16 @@
         height: 100%;
         border-radius: 0;
     }
-    .conteudo.cadastro::before{
+    .conteudo.login::before{
         width: 100%;
         height: 40%;
         border-radius: 0;
         top: 0;
+        left: 0;
     }
-    .cadastro{
-        flex-direction: column;
-        justify-content: space-evenly;
+    .login{
+        flex-direction: column-reverse;
+        justify-content: space-around;
     }
     .titulo{
         font-size: 25px;      
