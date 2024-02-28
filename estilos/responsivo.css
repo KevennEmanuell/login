@@ -11,6 +11,9 @@
         top: 0;
         left: 0;
     }
+    .login .conteudo-right{
+        padding: 10px;
+    }
     .login{
         flex-direction: column-reverse;
         justify-content: space-around;
