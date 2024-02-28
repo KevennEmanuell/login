@@ -1,0 +1,27 @@
+@media screen and (max-width:1040px){
+    .conteudo{
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+    }
+    .conteudo.cadastro::before{
+        width: 100%;
+        height: 40%;
+        border-radius: 0;
+        top: 0;
+    }
+    .cadastro{
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .titulo{
+        font-size: 25px;      
+    }
+    .descricao{
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 20px;
+        text-align: center;
+        color: #fff;
+    }
+}
