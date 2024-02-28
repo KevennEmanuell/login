@@ -12,7 +12,7 @@
         left: 0;
     }
     .login .conteudo-right{
-       
+       padding: 20px 0;
     }
     .login{
         flex-direction: column-reverse;
